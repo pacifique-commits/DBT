@@ -1,6 +1,5 @@
 
 
-````markdown
 # My First dbt Project (with Snowflake)
 
 This project is a **step-by-step dbt learning journey**.  
@@ -28,7 +27,7 @@ CREATE SCHEMA IF NOT EXISTS DBT_TRAINING.DBT_PACIFIQUE;
 USE WAREHOUSE COMPUTE_WH;
 USE DATABASE DBT_TRAINING;
 USE SCHEMA DBT_PACIFIQUE;
-````
+
 
 ### 2. Configure dbt profile (`~/.dbt/profiles.yml`)
 
