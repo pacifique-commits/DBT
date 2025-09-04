@@ -225,9 +225,3 @@ dbt docs serve
 * Tests for data quality
 * Queries verified in Snowflake
 * Docs generated for lineage
-
-You now have a **working analytics pipeline** with dbt + Snowflake! 🎉
-
-
-cawabanga
-```
