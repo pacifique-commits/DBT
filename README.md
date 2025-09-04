@@ -229,5 +229,5 @@ dbt docs serve
 You now have a **working analytics pipeline** with dbt + Snowflake! 🎉
 
 
-👉 want me to also include a **diagram (ASCII or Mermaid)** in the README to show lineage (seeds → staging → dim/fct)?
+cawabanga
 ```
